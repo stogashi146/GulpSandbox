@@ -1,0 +1,11 @@
+#content {
+  width: 100px;
+}
+#content p,
+#content dev {
+  font-size: 5em;
+}
+#content p a,
+#content dev a {
+  font-weight: bold;
+}
